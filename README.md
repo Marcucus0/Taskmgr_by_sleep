@@ -8,5 +8,5 @@ Taskmgr_by_sleep is your escape: by simply pressing the sleep button of your com
 > Click the "When I press the sleep button" drop-down menu under the Plugged In column to disable the sleep button when the computer is plugged into a wall outlet.  
 > Click "Save Changes."  
   
-- Secondly, launch main.pyw and... that's all !
+- Secondly, download and launch main.pyw and... that's all !
 Now, you can open the Task Manager by pressing the sleep button !
